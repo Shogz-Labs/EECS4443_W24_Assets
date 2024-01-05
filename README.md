@@ -14,7 +14,7 @@ Please feel free to add any other helpful resources by making a pull request!
    - [Android Studio Keyboard Shortcuts (i.e., Autocomplete)](https://developer.android.com/studio/intro/keyboard-shortcuts)
 ## Frequently Asked QUestions / Troubleshooting
 ### Installing Android Studio (Week 0)
-Please refer to the Week 0 TA slides for a comprehensive set of resources and step-by-step instructions. Additionally, I will be able to help you over Slack or during the lab session 😄
+Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_Assets/blob/main/TA%20Slides/Week%201%20-%20Introduction.pdf) for a comprehensive set of resources and step-by-step instructions. Additionally, I will be able to help you over Slack or during the lab session 😄
 ### Lab 1 FAQ
 TBD
 ### Lab 2 FAQ
