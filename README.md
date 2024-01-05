@@ -4,8 +4,8 @@ Please feel free to add any other helpful resources by making a pull request!
 ## Helpful Resources
 1. Course-Related Materials
      - [Lecture Programs / Lab Files](https://github.com/yorku-ease/EECS4443-Demos)
-     - [TA Slides]()
-     - [TA Demos]()
+     - [TA Slides](https://github.com/stoyonaga/EECS4443_W24_Assets/tree/main/TA%20Slides)
+     - [TA Demos](https://github.com/stoyonaga/EECS4443_W24_Assets/tree/main/TA%20Demos)
 2. Video Tutorials
     - [Caleb Curry's 4 Hour Introduction to Android Studio](https://www.youtube.com/watch?v=tZvjSl9dswg&themeRefresh=1)
     - [Android Programming: The Big Nerd Ranch Guide (3rd)](https://www.amazon.ca/Android-Programming-Nerd-Ranch-Guide/dp/0134706056)
