@@ -8,10 +8,12 @@ Please feel free to add any other helpful resources by making a pull request!
      - [TA Demos](https://github.com/stoyonaga/EECS4443_W24_Assets/tree/main/TA%20Demos)
 2. Video Tutorials
     - [Caleb Curry's 4 Hour Introduction to Android Studio](https://www.youtube.com/watch?v=tZvjSl9dswg&themeRefresh=1)
-    - [Android Programming: The Big Nerd Ranch Guide (3rd)](https://www.amazon.ca/Android-Programming-Nerd-Ranch-Guide/dp/0134706056)
 3. Documentation & Cheat Sheets
    - [Android Documentation](https://developer.android.com/docs) 
    - [Android Studio Keyboard Shortcuts (i.e., Autocomplete)](https://developer.android.com/studio/intro/keyboard-shortcuts)
+4. Textbooks & Miscellaneous References
+   - [Android Programming: The Big Nerd Ranch Guide (3rd)](https://www.amazon.ca/Android-Programming-Nerd-Ranch-Guide/dp/0134706056)
+   - [Introduction to Java Programming & Data Structures Comprehensive Version (11th)](https://www.pearson.com/store/p/introduction-to-java-programming-and-data-structures-comprehensive-version-ebook-global-edition/GPROG_A101708554311_learnernz-availability/9781292221892)
 ## Frequently Asked QUestions / Troubleshooting
 ### Installing Android Studio (Week 1)
 Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_Assets/blob/main/TA%20Slides/Week%201%20-%20Introduction.pdf) for a comprehensive set of resources and step-by-step instructions. Additionally, I will be able to help you over Slack or during the lab session 😄
