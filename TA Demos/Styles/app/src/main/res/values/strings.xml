@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Styles</string>
+    <string name="style_light">Light</string>
+    <string name="style_dark">Dark</string>
+    <string name="style_default">Mode: Default</string>
+    <string name="mode_dark">Mode: Dark</string>
+    <string name="mode_light">Mode: Light</string>
+</resources>
