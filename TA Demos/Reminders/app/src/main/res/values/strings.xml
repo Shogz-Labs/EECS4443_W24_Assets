@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="edittext_hint">Your Reminder to Input</string>
+    <string name="button_append">Append</string>
+</resources>
