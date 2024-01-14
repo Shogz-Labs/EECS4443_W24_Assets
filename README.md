@@ -14,7 +14,7 @@ Please feel free to add any other helpful resources by making a pull request!
 4. Textbooks & Miscellaneous References
    - [Android Programming: The Big Nerd Ranch Guide (3rd)](https://www.amazon.ca/Android-Programming-Nerd-Ranch-Guide/dp/0134706056)
    - [Introduction to Java Programming & Data Structures Comprehensive Version (11th)](https://www.pearson.com/store/p/introduction-to-java-programming-and-data-structures-comprehensive-version-ebook-global-edition/GPROG_A101708554311_learnernz-availability/9781292221892)
-## Frequently Asked QUestions / Troubleshooting
+## Frequently Asked Questions / Troubleshooting
 ### Installing Android Studio (Week 1)
 Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_Assets/blob/main/TA%20Slides/Week%201%20-%20Introduction.pdf) for a comprehensive set of resources and step-by-step instructions. Additionally, I will be able to help you over Slack or during the lab session 😄
 ### Lab 1 FAQ
@@ -24,4 +24,6 @@ TBD
 ### Lab 3 FAQ
 TBD
 ### Lab 4 FAQ
+TBD
+### Lab 5 FAQ
 TBD
