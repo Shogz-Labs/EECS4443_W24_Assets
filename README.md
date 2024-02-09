@@ -28,7 +28,11 @@ Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_As
        <br>
        ``<!-- This is a comment in your XML file!! 😎 -->`` 
 ### Lab 2 FAQ
-TBD
+1. I'm having trouble interpreting the background requirement. What exactly am I supposed to do?
+     - The entire background of the application should be dark blue (or really, any colour of your choice). The point is that it should be one solid gradient.
+     - Please refer [here](https://developer.android.com/develop/ui/views/theming/themes) for a hint!
+2. My Views in my layout are being cropped when the app transitiosn from vertical to horizontal layout!! What should I do!?
+     - You will either need to re-arrange the views in your horizontal view or use a [ScrollView](https://developer.android.com/reference/android/widget/ScrollView). To be specific, you should make the ScrollView the topmost parent that encapsulate the LinearLayout. 
 ### Lab 3 FAQ
 TBD
 ### Lab 4 FAQ
