@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.google.android.material.progressindicator.LinearProgressIndicator
+        android:id="@+id/process_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        app:layout_constraintTop_toTopOf="parent">
+    </com.google.android.material.progressindicator.LinearProgressIndicator>
+    <LinearLayout
+        android:id="@+id/input_selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/process_bar"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textview_inputtype">
+        </TextView>
+
+        <Spinner
+            android:id="@+id/spinner_input"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:entries="@array/spinner_home_method">
+        </Spinner>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/level_selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/input_selection"
+        android:layout_marginTop="60dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textview_leveltype">
+        </TextView>
+
+        <Spinner
+            android:id="@+id/spinner_level"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:entries="@array/spinner_home_level">
+        </Spinner>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="30dp"
+        android:onClick="onClick"
+        android:text="@string/button_starter"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/level_selection"
+        tools:ignore="UsingOnClickInXml"></Button>
+</androidx.constraintlayout.widget.ConstraintLayout>

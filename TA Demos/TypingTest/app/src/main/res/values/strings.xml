@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Project4443_Prototype</string>
+    <string name="textview_inputtype">Input Method:</string>
+    <string name="textview_leveltype">Level Type:</string>
+    <string name="button_starter">Start</string>
+    <string name="filler_ipsum">Template text until sample is pulled..</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="speed_metric">Overall Speed (WPM):</string>
+    <string name="accuracy_metric">Accuracy:</string>
+    <string name="button_finish">Restart</string>
+    <string name="elapsed_time">Elapsed Time(sec):</string>
+    <string name="input_accuracy">Input Accuracy:</string>
+    <string-array name="spinner_home_method">
+        <item>Voice Input</item>
+        <item>Keyboard Input</item>
+    </string-array>
+    <string-array name="spinner_home_level">
+        <item>Short/Informal</item>
+        <item>Long/Formal</item>
+    </string-array>
+
+    <string-array name="simple_phrases">
+        <item>good things happen to those who hustle</item>
+        <item>you cant always get what you want</item>
+        <item>but if you try real hard sometimes you might get what you need</item>
+        <item>i cant believe its not real butter</item>
+        <item>chainsaw man is the goat</item>
+        <item>you couldnt handle my undivided attention</item>
+        <item>the mitochondria is the powerhouse of the cell</item>
+        <item>you can steer yourself any direction you choose</item>
+        <item>sometimes you will never know the value of a moment until it becomes a memory</item>
+        <item>today i shall behave as if this is the day i will be remembered</item>
+    </string-array>
+
+    <string-array name="long_formal">
+        <item>So act as to treat humanity, whether in your own person or in that of any other, in every case as an end and never as merely a means.</item>
+        <item>Cheese is a dairy product produced in wide ranges of flavors, textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk.</item>
+        <item>Gumball machines were first invented in the late 19th century, with traditionally flavoured tutti frutti gum. Many believe William Wrigley designed the earliest gum machine, but it was The Thomas Adams Gum Company. These machines were found on subway platforms, and they had animated figures to make them more appealing.</item>
+        <item>In mathematics, a limit is the value that a function approaches as the input approaches some value. Limits are essential to calculus and mathematical analysis, and are used to define continuity, derivatives, and integrals.</item>
+        <item>A Fourier transform is a mathematical transform that decomposes functions into frequency components, which are represented by the output of the transform as a function of frequency.</item>
+        <item>A standard deviation is a measure of how dispersed the data is in relation to the mean. Low standard deviation means data are clustered around the mean, and high standard deviation indicates data are more spread out.</item>
+        <item>The meaning of life, or the answer to the question: "What is the meaning of life?", pertains to the significance of living or existence in general.</item>
+        <item>Theodor Seuss Geisel was an American children\'s author and cartoonist. He is known for his work writing and illustrating more than 60 books under the pen name Dr. Seuss.</item>
+        <item>If I take death into my life, acknowledge it, and face it squarely, I will free myself from the anxiety of death and the pettiness of life - and only then will I be free to become myself.</item>
+        <item>Ethnography is a branch of anthropology and the systematic study of individual cultures. Ethnography explores cultural phenomena from the point of view of the subject of the study.</item>
+    </string-array>
+</resources>
