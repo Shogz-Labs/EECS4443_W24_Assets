@@ -1,4 +1,12 @@
 # LE/EECS4443: Mobile User Interfaces (Winter 2024)
+
+> [!WARNING]  
+> As of **May 19, 2024**, this repository is no longer being maintained.
+> It is strongly advised that you only use this content as a reference moving forward.
+>
+> It has been a great pleasure being your TA for the term. I wish you all the best in your future endeavours 😄👋.
+
+
 Welcome to LE/EECS 4443 (Section M)! The goal of this repository is to help students familiarize themselves with Android Studio by providing additional learning materials, resources, and demo programs. 
 Please feel free to add any other helpful resources by making a pull request! 
 ## Helpful Resources
@@ -34,8 +42,15 @@ Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_As
 2. My Views in my layout are being cropped when the app transitions from the vertical to horizontal layout!! What should I do!?
      - You will either need to re-arrange the views in your horizontal view or use a [ScrollView](https://developer.android.com/reference/android/widget/ScrollView). To be specific, you should make the ScrollView the topmost parent that encapsulate the LinearLayout. 
 ### Lab 3 FAQ
-TBD
+1. Can you explain the Zoom-In? I am a bit confused.
+     - The Zoom-In function needs to be contextualized with relation to where you tap on the image. For example, if you tap on the upper right corner, it should expand the image ($\times 3$) and shift it to the left so that the image is centered around the tapped region.
 ### Lab 4 FAQ
-TBD
+1. How can I keep track of In-Path Time?
+     - Try to think of the game logic first. If the ball is in the path, keep a running tab using the [Apache Commons StopWatch object](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/time/StopWatch.html).
+     - There are of course other ways to go about doing this such as doing scratchpad arithmetic with with the System [currentTimeMillis()](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html#currentTimeMillis--) method.
 ### Lab 5 FAQ
-TBD
+1. I'm just lost in general. Where do I start?
+     - I strongly encourage you to take a look at [Demo_GridView](https://github.com/yorku-ease/EECS4443-Demos/tree/main/Demo_GridView). A majority of the code required to complete the lab can be used from here with citation.
+     - You can also refer to [Demo_Ink](https://github.com/yorku-ease/EECS4443-Demos/tree/main/Demo_Ink) to figure out how to share the images using the image sharing option. 
+  
+
