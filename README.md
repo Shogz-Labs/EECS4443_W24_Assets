@@ -47,7 +47,7 @@ Please refer to the [Week 1 slides](https://github.com/stoyonaga/EECS4443_W24_As
 ### Lab 4 FAQ
 1. How can I keep track of In-Path Time?
      - Try to think of the game logic first. If the ball is in the path, keep a running tab using the [Apache Commons StopWatch object](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/time/StopWatch.html).
-     - There are of course other ways to go about doing this such as doing scratchpad arithmeti with the System [currentTimeMillis()](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html#currentTimeMillis--) method.
+     - There are of course other ways to go about doing this such as doing scratchpad arithmetic with the System [currentTimeMillis()](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html#currentTimeMillis--) method.
 ### Lab 5 FAQ
 1. I'm just lost in general. Where do I start?
      - I strongly encourage you to take a look at [Demo_GridView](https://github.com/yorku-ease/EECS4443-Demos/tree/main/Demo_GridView). A majority of the code required to complete the lab can be used from here with citation.
